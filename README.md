@@ -25,3 +25,15 @@ Admin is a sub-part of this inventory management and POS system. In this system,
 
 9. Cart Management 
 The foundation of the sales process is the cart. The cashier's name, discount, discount percent, quantity, transaction no, cart ID, product code, price, total, settle date, and status are all tracked by the system for every cart. To create sales statistics, monitor transaction histories, and preserve billing transparency for customers, this data is necessary.
+
+
+
+The technology stack we selected. 
+1. C# programming language (.NET Framework, Windows Form)
+2. Microsoft SQL Server Management Studio
+3. Visual Studio (VS)
+
+Key stakeholders 
+Key stakeholders have essential responsibilities in this transforming journey, as recognized by K S Marketing. 
+1. Admin - Administrators will be responsible for configuring and managing the inventory management system and POS, ensuring that the system operates smoothly and efficiently. 
+2. Cashiers - Throughout everyday operations, cashiers are essential. The IMS system allows them to take orders and produce bills. 
